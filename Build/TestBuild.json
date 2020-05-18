@@ -3,7 +3,7 @@
 "productName": "WebGLSite",
 "productVersion": "0.1",
 "dataUrl": "TestBuild.data.unityweb",
-"wasmCodeUrl": "TestBuild.wasm",
+"wasmCodeUrl": "TestBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "TestBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
